@@ -10,7 +10,7 @@ function add(x, y) {
     // x = 1 and y = 2 should return 3
 
     // implement here
-    // ...
+    // ..
     return x+y
 }
 
