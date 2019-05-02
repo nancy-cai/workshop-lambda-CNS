@@ -11,7 +11,7 @@ function add(x, y) {
 
     // implement here
     // ..
-    return x+y
+    return x+y;
 }
 
 exports.handler = function(event, context, cb) {
